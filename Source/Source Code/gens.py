@@ -3,7 +3,7 @@ import os
 import math
 import datetime
 
-activate_mal=False  # do we want malware node?
+activate_mal=True   # do we want malware node?
 CNUMER = 10         # Total number of nodes in a cluster
 run_time = 10.0     # Runtime in seconds
 
