@@ -104,7 +104,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
-env/
+#env/
 venv/
 ENV/
 env.bak/
@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+Source/Source Code/attack.tcl
+Source/Source Code/attack_out.nam
+Source/Source Code/attack_out.tr
+Source/Source Code/normal.tcl.bak
+Source/Source Code/normal_out.nam.bak
+
+Source/Source Code/normal_out.tr.bak
+
+
